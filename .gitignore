@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Gestu/v15
+/Debug
+*.sln
+*.vcxproj
+/Gestu.vcxproj.filters
+/Gestu.vcxproj.user
